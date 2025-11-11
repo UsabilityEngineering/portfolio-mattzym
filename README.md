@@ -8,4 +8,4 @@ My name is Matthew Hadley, and I am a Computer Science student at California Sta
 [Culture Dish](https://github.com/ChicoState/culturedish/wiki)
 
 ## UX Journal
-[UX Journal Title](https://usabilityengineering.github.io/portfolio-mattzym/journal)
+[Working the Elevator](https://usabilityengineering.github.io/portfolio-mattzym/journal)
