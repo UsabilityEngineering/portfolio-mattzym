@@ -5,7 +5,7 @@ My name is Matthew Hadley, and I am a Computer Science student at California Sta
 
 ## UX Team Project
 
-Coming soon.
+[Culture Dish](https://github.com/ChicoState/culturedish/wiki)
 
 ## UX Journal
-UX Journal Title
+[UX Journal Title]()
