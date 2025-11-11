@@ -8,3 +8,4 @@ My name is Matthew Hadley, and I am a Computer Science student at California Sta
 Coming soon.
 
 ## UX Journal
+UX Journal Title
