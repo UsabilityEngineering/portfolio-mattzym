@@ -2,7 +2,7 @@
 
 Every day between and after classes, I head to the fourth story of the library to study and complete any homework I have due for the week. In order to reach this floor, you may either take the stairs or the elevator. Taking the elevator is my preferred method, so I always find myself on the first floor in the elevator area after classes. In this area, there are three elevators lined up next to each other, with a simple interface to the left of the middle elevator. This interface contains two switches, an up button and a down button, but despite the options being so limited, the interaction created by this interface can be quite confusing.
 
-<img width="500" height="800" alt="image" src="https://github.com/user-attachments/assets/f5f77f3f-bff1-4782-87c4-d462107c3294" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/f5f77f3f-bff1-4782-87c4-d462107c3294" />
 
 Walking up to the interface, the first part about it you notice is how the wall sign provides special instructions for the down button: "Push ▼ to recall elevator to the lobby." As there is no basement level, this sign serves to explain to the user that there is nowhere lower to go, and instead of the down button meaning "go downwards," it means "bring the elevator to here." This appears on the surface to be a very **learnable** concept, until additional factors are added in. During this experience, the left and right elevator both had pieces of paper on them, listing them as out of service, complicating the process.
 
